@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T14:57:59.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="zMl6yXqDLYVHumbUO1Vd" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T14:59:35.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="oQk7uGaDc7hH0hjfb6eC" version="24.5.4" type="github">
   <diagram name="Page-1" id="sLg9GkTvKmtIcPhkRy6P">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -81,9 +81,6 @@
         </mxCell>
         <mxCell id="I018d0j3AjAdzXmvruOZ-65" value="&lt;b style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Prompt code&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="369" y="280" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="I018d0j3AjAdzXmvruOZ-66" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;carrier frequency&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I018d0j3AjAdzXmvruOZ-77" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ATAN&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="457.5" width="60" height="30" as="geometry" />
@@ -566,6 +563,9 @@
               <mxPoint x="620" y="340" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="I018d0j3AjAdzXmvruOZ-204" value="&lt;b style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Carrier frequency&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="210" width="121" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
